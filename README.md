@@ -1,0 +1,1 @@
+# shimakoro.github.io
