@@ -1,7 +1,7 @@
 $(function(){
   
   // SNSボタン
-  $('.logo').hover(
+  $('.toplogo').hover(
     function(){
       $(this).children('span').animate({
         'font-size':'30px'
@@ -14,7 +14,7 @@ $(function(){
     }
   );
   
-  $('.logo').click(function(){
+  $('.toplogo').click(function(){
     // animateメソッドを用いて、
     // アニメーション付きでスクロールするようにしてください。
 
